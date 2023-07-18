@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
-**GusMonMo/GusMonMo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Oi, eu sou o Gus!
+<div align="center">
+<a href="https://github.com/GusMonMo">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GusMonMo&show_icons=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusMonMo&layout=compact&langs_count=7"/>
+</div>
+  <br>
+<p align="center">
+  <a href="https://www.instagram.com/gusta.m_m/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="instagram"></a>
+  <a href="https://www.linkedin.com/in/gustavo-moraes-ab4a23223/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="linkedin"></a>
+  <a href="mailto:gustavo.mo.monteiro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>   
+</p>
+  
+![Snake animation](https://github.com/myrdiaclonix/myrdiaclonix/blob/output/github-contribution-grid-snake.svg)
