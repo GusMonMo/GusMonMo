@@ -10,5 +10,3 @@
   <a href="https://www.linkedin.com/in/gustavo-moraes-ab4a23223/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="linkedin"></a>
   <a href="mailto:gustavo.mo.monteiro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>   
 </p>
-  
-![Snake animation](https://github.com/myrdiaclonix/GusMonMo/blob/output/github-contribution-grid-snake.svg)
