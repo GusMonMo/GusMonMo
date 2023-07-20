@@ -11,4 +11,4 @@
   <a href="mailto:gustavo.mo.monteiro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>   
 </p>
   
-![Snake animation](https://github.com/myrdiaclonix/myrdiaclonix/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/myrdiaclonix/GusMonMo/blob/output/github-contribution-grid-snake.svg)
