@@ -1,13 +1,31 @@
-# Olá, meu nome é Gustavo!
-<div align="center">
-<a href="https://github.com/GusMonMo">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GusMonMo&show_icons=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusMonMo&layout=compact&langs_count=7"/>
+<h2 align="left">Oi eu sou o Gustavo, acadêmico de engenharia de software e criador de sites duvidosos nas horas vagas</h2>
+
+###
+
+<h3 align="left">Skills</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
-  <br>
-<p align="center">
-  <a href="https://portifolio-nine-brown.vercel.app"></a>
-  <a href="https://www.instagram.com/gusta.m_m/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="instagram"></a>
-  <a href="https://www.linkedin.com/in/gustavo-moraes-ab4a23223/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="linkedin"></a>
-  <a href="mailto:gusmonmodev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>   
-</p>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=GusMonMo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false&order=1&custom_title=Stats" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GusMonMo&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=2&theme=blue-green&hide_border=true&order=2" height="180" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=GusMonMo&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=30&order=3" height="180" alt="streak graph"  />
+</div>
+
+###
