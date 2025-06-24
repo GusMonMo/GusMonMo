@@ -1,4 +1,4 @@
-<h2 align="left">Oi eu sou o Gustavo, acadêmico de engenharia de software e criador de sites duvidosos nas horas vagas</h2>
+<h2 align="left">Olá eu sou o Gustavo Monteiro, acadêmico de engenharia de software</h2>
 
 <h3 align="left">Skills</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=GusMonMo&label=Profile%20views&color=0cf574&style=flat" alt="GusMonMo" /> </p>
