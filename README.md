@@ -1,4 +1,5 @@
-<h2 align="left">Olá eu sou o Gustavo Monteiro, acadêmico de engenharia de software</h2>
+# Olá eu sou o Gustavo Monteiro, sou desenvolvedor web e curioso da segurança ofensiva
+## Sou acadêmico de engenharia de software no 3º Semestre
 
 <h3 align="left">Skills</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=GusMonMo&label=Profile%20views&color=0cf574&style=flat" alt="GusMonMo" /> </p>
